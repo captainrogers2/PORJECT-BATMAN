@@ -1,0 +1,298 @@
+body {
+  text-align: center;
+  background-color: black;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color:white;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+
+
+a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding :0 10px 0 10px;
+    text-decoration: none;
+}
+
+a:hover {
+  color: silver;
+}
+
+.cape {
+    font-family: 'Roboto', sans-serif;
+    color: silver;
+    font-size: 20px;
+}
+.sites {
+  position: absolute;
+  font-weight: bold;
+  text-align: left;
+  line-height: 2;
+  top:200px;
+  left: 30px;
+  font-size: 1.1rem;
+}
+.hope {
+  margin: 0;
+
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  color:white;
+  position: absolute;
+  text-align: right;
+  bottom: -470px;
+  right: 50px;
+}
+
+.steel {
+  font-family: 'Roboto', sans-serif;
+  color: silver;
+  font-size: 20px;
+  text-align: right;
+  position: absolute;
+  top: 1150px;
+  right: 50px;
+  left: 1100px;
+}
+.superman-bio {
+  position: absolute;
+  font-weight: bold;
+  text-align: right;
+  line-height: 2;
+  top: 1220px;
+  left: 1100px;
+  font-size: 1.1rem;
+}
+.batman-dialog {
+  margin-left: 20px;
+  text-align: left;
+font-family: 'Mulish', sans-serif;
+  color:white;
+  position: absolute;
+  top: 130px;
+  left: 25px;
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+  font-size: 10px;
+}
+.superman-dialog {
+  text-align: right;
+  font-family: 'Mulish', sans-serif;
+    color:white;
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+  font-size: 10px;
+  position: absolute;
+  top: 1070px;
+  left: 1105px;
+}
+
+.top-container {
+  height: 900px;
+}
+
+.middle-container {
+  margin: 0;
+  padding: 0;
+  border-style: none;
+    height: 909px;
+}
+
+.justice {
+  background-color: black;
+}
+
+
+.knight {
+  height: 600px;
+  width: 1400px;
+  background-color : black;
+}
+
+.breathe {
+  font-family: 'Mulish', sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  position: relative;
+  left: 30px;
+  top: -550px;
+}
+
+
+.kal {
+  height: 550px;
+  background-color: black;
+  text-transform: uppercase;
+}
+
+.flying {
+    height: 763px;
+  width: 1366px;
+}
+
+.dead {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-align: right;
+  font-weight: bold;
+  font-size: 20px;
+  position: relative;
+  right: 30px;
+  top: -600px;
+}
+
+.punch {
+  height: 572px;
+  padding: 0;
+}
+
+.not-brave {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 28px;
+  position: relative;
+  left: -1000px;
+  top: -400px;
+}
+.block {
+  height: 572px;
+
+}
+
+.men-brave {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 28px;
+  position: relative;
+  right: 90px;
+  bottom: 300px;
+}
+
+.funeral-1 {
+  height: 570px;
+  position: relative;
+}
+
+.failed {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
+  position: relative;
+  left : -500px;
+  top: -400px;
+
+}
+.funeral-2 {
+  background-color: black;
+  position: relative;
+}
+
+.not-fail {
+  font-family: 'Mulish', sans-serif;
+  color: black;
+  text-transform: uppercase;
+  font-size: 25px;
+  position: relative;
+  bottom: 400px;
+  margin-left: 800px;
+}
+
+.rebuild {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+
+.god-is-dead {
+  height: 568px;
+}
+.bells {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-align: right;
+  text-transform:uppercase;
+  font-size : 20px;
+  position: relative;
+  bottom: 400px;
+  right: 30px;
+}
+
+.ding-dong {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-align: left;
+  text-transform:uppercase;
+  font-size : 20px;
+  position: relative;
+  left: 30px;
+  bottom: 400px;
+}
+
+.idea {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
+.heroes {
+  text-align: left;
+}
+
+.coming-soon {
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.dc {
+  padding-top: 20px;
+  background-color: black;
+  text-align: center;
+}
+
+.dc-img {
+  margin-bottom: 20px;
+}
+
+.links {
+  background-color: black;
+padding-top: 40px;
+  text-align: center;
+
+}
+
+.icon {
+  padding: 40px 20px 0 20px;
+}
+
+.copyright {
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 20px;
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  position: static;
+  text-align: center;
+}
